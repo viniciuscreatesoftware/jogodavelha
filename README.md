@@ -4,7 +4,7 @@
 ### Wálysson de Morais Silva
 | - | A | B | C |
 | - | - | - | - |
-| 1 | X | W | W |
+| 1 | X | W | X |
 | 2 | W | O | W |
 | 3 | O | W | X |
     
